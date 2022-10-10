@@ -620,7 +620,7 @@ footer .social-links {
         display: none;
     }
     .tabbed-component {
-        height: 145vh;
+        height: 135vh;
     }
     .tabbed-item{
         grid-template-columns: 1fr;
@@ -763,7 +763,7 @@ footer .social-links {
 @media(max-width: 375px){
     .text-area {
         margin-top: 7rem;
-        width: 370px;
+        width: 355px;
     }
     .hero-image{
         margin-top: 5rem;
